@@ -4,6 +4,7 @@
 
 ## Para subir ambas as aplicações rodar os comandos:
 <strong>nx run login:serve</strong>
+<br>
 <strong>nx run dashboard:serve-mfe</strong>
 
 ## Tutorial disponível em:
